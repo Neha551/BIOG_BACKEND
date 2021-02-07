@@ -1,0 +1,12 @@
+package com.app.entities.enums;
+
+public enum SoftwareType {
+	ANTIVIRUS,
+	AUDIO_AND_VIDEO,
+	BACKUP,
+	DESIGN_AND_ILLUSTRATION,
+	INTERNETSECURITY,
+	OFFICE_AND_PRODUCTIVITY,
+	PHOTOGRAPHY,
+	UTILITIES
+}
